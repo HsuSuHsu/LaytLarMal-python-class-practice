@@ -116,3 +116,7 @@ dimensions=(200,50)
 print(dimensions[0])
 dimensions=(400,200)
 print(dimensions)
+#set and dictionary 
+my_sets={2,5,23,65,2}
+print(my_sets)
+print(my_sets)
