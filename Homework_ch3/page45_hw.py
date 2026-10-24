@@ -12,5 +12,8 @@ places.sort()
 print(places)
 places.sort(reverse=True)
 print(places)
+##from pg43 problem
 guest_list=['Kim', 'amy', 'Jim', 'felix', 'ian', 'lily', 'Katy']
 print(len(guest_list))
+
+

@@ -8,3 +8,4 @@ animals=["cats","lions","tigers"]
 for animal in animals:
     print(f"{animal.title()} like to purr")
 print(f"They are all from feline family.")
+
